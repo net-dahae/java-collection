@@ -2,8 +2,11 @@ package net.dahae;
 
 import java.util.HashSet;
 
-public class HashSetTest { // Áßº¹ x, ¼ø¼­ x
-
+public class HashSetTest { 
+	/**
+	 * ì¤‘ë³µ x, ìˆœì„œ x
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		HashSet<Object> hs = new HashSet<Object>();
