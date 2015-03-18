@@ -2,7 +2,7 @@ package net.dahae;
 
 import java.util.HashSet;
 
-public class HashSetTest {
+public class HashSetTest { // 중복 x, 순서 x
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
